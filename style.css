@@ -84,6 +84,7 @@ body {
         display: flex;
         flex-direction: column-reverse;
         height: 90vh;
+        width: 60vh;
 
     }
 
@@ -111,7 +112,8 @@ body {
     }
 
     .card-stat {
-        gap: 10px;
-        margin-left: 0px;
+        gap: 20px;
+        margin-left: 10px;
+
     }
 }
