@@ -89,7 +89,7 @@ body {
 
     .card_text {
         width: 100%;
-        padding: 45px;
+        padding: 30px;
 
     }
 
@@ -108,5 +108,10 @@ body {
         width: 100%;
         object-fit: cover;
         object-position: left;
+    }
+
+    .card-stat {
+        gap: 20px;
+        margin-left: 0px;
     }
 }
